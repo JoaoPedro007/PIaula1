@@ -1,5 +1,5 @@
 # Aula 2
-## Aprendendo conceitos
-- git checkout - b aula2
+## novos comandos
+- git checkout -b aula2
 - git push --all
 - git checkout
