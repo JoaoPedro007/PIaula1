@@ -1,7 +1,7 @@
-# Aula 1
+# Aula 2
 ## Aprendendo conceitos
-- git clone
-- git add
-- git commit 
+- git checkout - b aula2
+- git push --all
+- git checkout
 - git push
 - git status
